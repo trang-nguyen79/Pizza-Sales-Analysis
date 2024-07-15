@@ -5,3 +5,9 @@ Power BI + SQL | The analysis of sales in a previous year to get the picture of 
 Cleaned dataset: download ![here](https://drive.google.com/file/d/1M2b0dSnyQDBdTgezkcDEqe1as33rmR5G/view?usp=sharing)
 
 ## Objectives
+- Figure out the selling trends by days of week and months of year
+- Report about the best/worst sellers
+- Key numbers in sales performance
+
+## Dashboard
+!(https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.pdf)
