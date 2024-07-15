@@ -10,9 +10,9 @@ Cleaned dataset: download ![here](https://drive.google.com/file/d/1M2b0dSnyQDBdT
 - Key numbers in sales performance
 
 ## Analysis
-![SQL](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/pizza_sales_analysis.sql)
+[SQL](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/pizza_sales_analysis.sql)
 
-![Power BI](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.pbix)
+[Power BI](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.pbix)
 
 ![Dashboard](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Dashboard%201.png)
 
