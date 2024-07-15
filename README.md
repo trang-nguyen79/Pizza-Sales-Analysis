@@ -9,5 +9,8 @@ Cleaned dataset: download ![here](https://drive.google.com/file/d/1M2b0dSnyQDBdT
 - Report about the best/worst sellers
 - Key numbers in sales performance
 
-## Dashboard
-!(https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.pdf)
+## Analysis
+![SQL](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/pizza_sales_analysis.sql)
+![Power BI](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.pbix)
+!(https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Pizza%20Dashboard%201.png)
+!(https://github.com/trang-nguyen79/Pizza-Sales-Analysis/blob/main/Best%20and%20Worst%20Sellers.png)
